@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view_details" android:title="View Hotel Location"/>
+    <item android:id="@+id/book_now" android:title="Book Now"/>
+    <item android:id="@+id/change_name" android:title="Change Name" />
+</menu>

@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/edit_booking" android:title="Edit Booking"/>
+    <item android:id="@+id/cancel_booking" android:title="Cancel Booking"/>
+</menu>

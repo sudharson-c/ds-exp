@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hotel Booking</string>
+    <string name="welcome_user">Welcome %1$s!</string>
+    <string name="welcome_new_user">Welcome, %s!</string>
+    <string name="welcome_returning_user">Welcome back, %s!</string>
+    <string name="room_available">Room Available!</string>
+    <string name="hotel_location">Hotel Location: %1$s</string>
+    <string name="confirm_title">Confirm Booking</string>
+    <string name="confirm_message">Do you want to book this room?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="booking_success">Room Booked Successfully!</string>
+    <string name="selected_option">Selected: %1$s</string>
+    <string name="context_action">Context Action: %1$s</string>
+    <string name="booking_page">Booking Page</string>
+    <string name="profile_page">Profile Page</string>
+    <string name="settings_page">Settings Page</string>
+    <string name="username_dialog_title">Enter Your Username</string>
+    <string name="username_dialog_save">Save</string>
+    <string name="username_empty_warning">Username cannot be empty</string>
+</resources>
